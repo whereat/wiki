@@ -10,6 +10,7 @@ Redux, Immutable.js
 - We need an encrypted data store for at least PGP Keys, possibly for all data. 
 	- Ideal solution would be to encrypt the client redux store. Has this been done?
 	- We might still have to keep Keys in a native keystore. Other data could go in the redux store.
+	- React Native provides a layer on top of native LocalStorage:  [AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage.html#content)
 
 ###Block Chaining
 
