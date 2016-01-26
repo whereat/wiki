@@ -3,10 +3,13 @@
 ###React Native
 Redux, Immutable.js
 
-Considerations:
-		-API client must implement HPKP
-		-need encrypted data store for at least PGP Keys, possibly for all data
-		
+#####Considerations:
+
+- API client must implement HPKP
+	- We currently have this in Java, and it will likely stay there. We will need to duplicate this work in Objective-C/Swift for the iOS implementation.
+- We need an encrypted data store for at least PGP Keys, possibly for all data. 
+	- Ideal solution would be to encrypt the client redux store. Has this been done?
+	- We might still have to keep Keys in a native keystore. Other data could go in the redux store.
 
 ###Block Chaining
 
