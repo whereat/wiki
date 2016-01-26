@@ -5,4 +5,4 @@ To learn more about the project, visit https://whereat.io. To see the rest of ou
 
 # About this wiki
 
-The purpose of this wiki is to provide a forum for pooling the collective knowledge of the community contributing to where@. Get stharted by visiting <https://github.com/whereat/wiki/wiki>
+The purpose of this wiki is to provide a forum for pooling the collective knowledge of the community contributing to where@. Get started by visiting <https://github.com/whereat/wiki/wiki>
