@@ -1,0 +1,17 @@
+Research Initiatives/Spikes
+
+React Native
+Redux, Immutable.js
+
+Considerations:
+		-API client must implement HPKP
+		-need encrypted data store for at least PGP Keys, possibly for all data
+		
+
+Block Chaining
+
+Server vs No Server
+
+Google Map alternative
+
+Fused Location Provider API
