@@ -1,6 +1,6 @@
-Research Initiatives/Spikes
+#Research Initiatives/Spikes
 
-React Native
+###React Native
 Redux, Immutable.js
 
 Considerations:
@@ -8,10 +8,12 @@ Considerations:
 		-need encrypted data store for at least PGP Keys, possibly for all data
 		
 
-Block Chaining
+###Block Chaining
 
-Server vs No Server
+###Server vs No Server
 
-Google Map alternative
+###Google Map alternative
 
-Fused Location Provider API
+###Fused Location Provider API
+
+###HMAC
